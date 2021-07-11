@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+---
+title: MOAR
+---
 
-You can use the [editor on GitHub](https://github.com/klabbet/moar-wiki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Message-Oriented Open Architecture
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+MOAR is a software architecture. It is best applied to a backend system behind an API. The purpose of this architecture is to provide patterns and practices for distributed systems that will help developers fall into the pit of success.
 
-### Markdown
+The MOAR architecture is described in its full on this website, and you are free to copy and use any of its material. If you want to redistribute the architecture with or without changes, you are obligated to reference the original. See the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/) for details.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you want to provide feedback or suggest changes, head over to the [GitHub repository](https://github.com/klabbet/moar-wiki).
 
-```markdown
-Syntax highlighted code block
+## Getting Started
 
-# Header 1
-## Header 2
-### Header 3
+* [Why Microservices Suck](#)
+* [Building Large Scale Distributed Systems](#)
+* [Importance of a Common Design Language](#)
+* [Keep Maintenance to a Minimum](#)
+* [Work Efficiently in both Small and Large Scale]
 
-- Bulleted
-- List
+## MOAR Specification
 
-1. Numbered
-2. List
+### Version 1.0.0
 
-**Bold** and _Italic_ and `Code` text
+* [Introduction]()
 
-[Link](url) and ![Image](src)
-```
+## License
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/klabbet/moar-wiki/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This page is licenced under [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
