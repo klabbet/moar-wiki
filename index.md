@@ -12,7 +12,7 @@ If you want to provide feedback or suggest changes, head over to the [GitHub rep
 
 ## Getting Started
 
-* [Why Microservices Suck](getting-started/why-microservices.suck.html)
+* [Why Microservices Suck](getting-started/why-microservices-suck.html)
 * [Building Large Scale Distributed Systems](#)
 * [Importance of a Common Design Language](#)
 * [Keep Maintenance to a Minimum](#)
