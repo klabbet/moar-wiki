@@ -10,19 +10,23 @@ The MOAR architecture is described in its full on this website, and you are free
 
 If you want to provide feedback or suggest changes, head over to the [GitHub repository](https://github.com/klabbet/moar-wiki).
 
-## Getting Started
+## [Getting Started](getting-started/)
 
-* [Why Microservices Suck](getting-started/why-microservices-suck.html)
-* [Building Large Scale Distributed Systems](#)
-* [Importance of a Common Design Language](#)
-* [Keep Maintenance to a Minimum](#)
-* [Work Efficiently in both Small and Large Scale](#)
+* [Identifying the Problem](getting-started/identifying-the-problem.html)
 
 ## MOAR Specification
 
 ### Version 1.0.0
 
 * [Introduction](specification/introduction.html)
+
+## Discussion
+
+* [Why Microservices Suck](discussion/why-microservices-suck.html)
+
+## Solutions
+
+* [Moth](https://github.com/klabbet/moth)
 
 ## License
 
