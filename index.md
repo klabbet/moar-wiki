@@ -18,6 +18,7 @@ If you want to provide feedback or suggest changes, head over to the [GitHub rep
 
 * [Introduction](specification/0.0.1/introduction.html)
 * [Definitions](specification/0.0.1/definitions.html)
+* [Versions](specification/0.0.1/versions.html)
 
 ## Discussion
 
