@@ -6,7 +6,7 @@ The idea of microservices is very appealing to both software developers and arch
 
 With microservices you have smaller isolated parts of code that each have their own application lifecycle. This means that you can build and deploy a part of the system, without affecting other parts. It means that you can replace a part of the system with no changes to the rest.
 
-It also means that different parts of your domain can evolve at different pace. You gain addivity, meaning that you change the functionality of your system by adding to it, and not by changing the existing parts.
+It also means that different parts of your domain can evolve at different pace. You gain additivity, meaning that you change the functionality of your system by adding to it, and not by changing the existing parts.
 
 Services might have different requirements for load and uptime. You can give the user service 3 VCPUs but it's enough for your order service to have 2 VCPU, except when there is a marketing campaign and you can increase order service to 5 VCPUs. This is very attractive as you can choose to optimize some part of the system's performance to just throwing hardware at other parts.
 
