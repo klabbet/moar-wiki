@@ -14,7 +14,7 @@ Service A communicates to Service B. (see [observed](#observed))
 
 ### Observed
 
-Service A listens to Service B. (see [consumed(#consumed))
+Service A listens to Service B. (see [consumed](#consumed))
 
 ### Service Discovery
 
