@@ -17,6 +17,7 @@ If you want to provide feedback or suggest changes, head over to the [GitHub rep
 ## [MOAR Specification 0.0.1](specification/0.0.1/)
 
 * [Introduction](specification/0.0.1/introduction.html)
+* [Definitions](specification/0.0.1/definitions.html)
 
 ## Discussion
 
