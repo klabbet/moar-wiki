@@ -14,11 +14,9 @@ If you want to provide feedback or suggest changes, head over to the [GitHub rep
 
 * [Identifying the Problem](getting-started/identifying-the-problem.html)
 
-## MOAR Specification
+## [MOAR Specification 0.0.1](specification/0.0.1/)
 
-### Version 1.0.0
-
-* [Introduction](specification/introduction.html)
+* [Introduction](specification/0.0.1/introduction.html)
 
 ## Discussion
 
