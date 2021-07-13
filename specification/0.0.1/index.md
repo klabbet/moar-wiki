@@ -6,5 +6,6 @@ This specification is licensed under [Creative Commons Attribution 4.0](https://
 
 * [Introduction](introduction.html)
 * [Definitions](definitions.html)
+* [Versions](versions.html)
 
 [Next &raquo;](introduction.html)
