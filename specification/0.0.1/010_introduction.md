@@ -4,4 +4,4 @@ The Message-Oriented Open Architecture (MOAR) Specification defines a language-a
 
 The MOAR architecture can be used with tools to generate documentation and to run simulation of your system before its put in production.
 
-[Next &raquo;](definitions.html)
+[Next &raquo;](020_definitions.html)
