@@ -1,8 +1,4 @@
----
-title: MOAR
----
-
-## Message-Oriented Open Architecture
+## Message-Oriented Architecture
 
 MOAR is a software architecture. It is best applied to a backend system behind an API. The purpose of this architecture is to provide patterns and practices for distributed systems that will help developers fall into the pit of success.
 
@@ -12,21 +8,17 @@ If you want to provide feedback or suggest changes, head over to the [GitHub rep
 
 ## [Getting Started](getting-started/)
 
-* [Identifying the Problem](getting-started/identifying-the-problem.html)
+- [Introduction to MOAR](getting-started/introduction.html)
 
-## [MOAR Specification 0.0.1](specification/0.0.1/)
-
-* [Introduction](specification/0.0.1/introduction.html)
-* [Definitions](specification/0.0.1/definitions.html)
-* [Versions](specification/0.0.1/versions.html)
+## [MOAR Specification](specification/latest/)
 
 ## Discussion
 
-* [Why Microservices Suck](discussion/why-microservices-suck.html)
+- [Why Microservices Suck](discussion/why-microservices-suck.html)
 
-## Solutions
+## Tools
 
-* [Moth](https://github.com/klabbet/moth)
+- [Moth](https://github.com/klabbet/moth) - A MOAR implementation on Azure Functions.
 
 ## License
 

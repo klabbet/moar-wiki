@@ -12,6 +12,10 @@ Making a call to a service without waiting for the response. (see [synchronous](
 
 Service A communicates to Service B. (see [observed](#observed))
 
+### Line of Business System
+
+The backend systems managing the company. These are often ERP's, CRM's, payroll and such.
+
 ### Observed
 
 Service A listens to Service B. (see [consumed](#consumed))
