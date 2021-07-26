@@ -111,11 +111,11 @@ The operator `=<<` indicates listening to a request, left to right. Sometimes it
 
 Here are all the operators.
 
-| Operation | Sync/Async | Cons/Obs | Design | Operators |
-| ---------- | ------------ | ----------- | ------- | ---------- |
-| Query | Synchronous | Consuming | Solid Line <br> Filled Arrow | `==>`, `<==` |
-| Command | Asynchronous | Consuming | Dashed Line <br> Filled Arrow | `-->`, `<--` |
-| Subscribe | Asynchronous | Observing | Dashed Line <br> Hollow Arrow | `-<<`, `>>-` |
-| Request | Synchronous | Observing | Solid Line <br> Hollow Arrow | `=<<`, `>>=` |
+| Operation | Type | Design | Operators |
+| ---------- | ------------ | ----------- | ---------- |
+| Query | Synchronous <br> Consuming | Solid Line <br> Filled Arrow | `==>`, `<==` |
+| Command | Asynchronous <br> Consuming | Dashed Line <br> Filled Arrow | `-->`, `<--` |
+| Subscribe | Asynchronous <br> Observing | Dashed Line <br> Hollow Arrow | `-<<`, `>>-` |
+| Request | Synchronous <br> Observing | Solid Line <br> Hollow Arrow | `=<<`, `>>=` |
 
-[Next / Scenarios](scenarios.html)
+[Next / Scenarios &raquo;](scenarios.html)

@@ -8,7 +8,10 @@ If you want to provide feedback or suggest changes, head over to the [GitHub rep
 
 ## [Getting Started](getting-started/)
 
-- [Introduction to MOAR](getting-started/introduction.html)
+- [Introduction](getting-started/introduction.html)
+- [Simple Message Oriented Language](getting-started/smol.html)
+- [Scenarios](getting-started/scenarios.html)
+- [Frontmatter](getting-started/frontmatter.html)
 
 ## [MOAR Specification](specification/latest/)
 
