@@ -51,6 +51,16 @@ A function takes a message, process it, and sends one or several new messages. A
 * user-svc/update-user
 * mail-svc/send-email
 
+#### Stores
+
+A store is where data flows in, or out of. You can add data to a store, query the data in a store or change the data in the store. The MOAR architecture doesn't solve the storage by suggesting one storage technique, but instead promotes using the right storage for your data.
+
+**Store examples**
+
+* user-stor
+* order-stor
+* product-stor
+
 #### Communication
 
 There are only four ways to communicate messages.

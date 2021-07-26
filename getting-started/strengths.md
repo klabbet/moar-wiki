@@ -1,1 +1,0 @@
-## The Strengths of MOAR
