@@ -2,9 +2,10 @@
 
 | Table of Contents |
 | --- |
-| [Introduction to MOAR](introduction.html) |
-| [Protocol of MOAR](protocol.html) |
-| [Strenghts of MOAR](strengths.html) |
+| [Introduction](introduction.html) |
+| [Simple Message Oriented Language](smol.html) |
+| [Scenarios](scenarios.html) |
+| [Frontmatter](frontmatter.html) |
 
 
 The MOAR architecture fits best in front of your line of business applications and behind an API. It is a backend architecture that helps you connect systems together, handling high load and while being easy to maintain.
@@ -39,4 +40,4 @@ Never underestimate the complexity of a distributed system
 3. You have the capability to deal with each service as their own application lifecycle
 4. Your development team is distributed on different departments that own their own services in your microservice system
 
-[Next / Introduction to MOAR](introduction.html)
+[Next / Introduction &raquo;](introduction.html)

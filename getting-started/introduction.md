@@ -72,4 +72,4 @@ There are only four ways to communicate messages.
 
 These four ways of sending messages are all that is needed to build a MOAR system, and the only way you are allowed to communicate between services. Only when you access external resources you are allowed to use communication tools like REST or RPC.
 
-[Next / Protocol of MOAR](protocol.html)
+[Next / Simple Message Oriented Language &raquo;](smol.html)

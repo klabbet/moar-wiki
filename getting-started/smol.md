@@ -113,7 +113,7 @@ Here are all the operators.
 
 | Operation | Sync/Async | Cons/Obs | Design | Operators |
 | ---------- | ------------ | ----------- | ------- | ---------- |
-| Query | Synchronous | Consuming | Solid Line <br> Filled Arrow | `==>`, `<==` |==
+| Query | Synchronous | Consuming | Solid Line <br> Filled Arrow | `==>`, `<==` |
 | Command | Asynchronous | Consuming | Dashed Line <br> Filled Arrow | `-->`, `<--` |
 | Subscribe | Asynchronous | Observing | Dashed Line <br> Hollow Arrow | `-<<`, `>>-` |
 | Request | Synchronous | Observing | Solid Line <br> Hollow Arrow | `=<<`, `>>=` |
